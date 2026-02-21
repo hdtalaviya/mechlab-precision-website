@@ -1,0 +1,15 @@
+<svg width="520" height="120" viewBox="0 0 520 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle logoDesc">
+  <title id="logoTitle">MechLab Precision LLP logo</title>
+  <desc id="logoDesc">Stylized ML monogram with MechLab Precision wordmark.</desc>
+  <rect width="520" height="120" rx="8" fill="#E7EAED"/>
+  <g transform="translate(18 14)">
+    <polygon points="40,2 78,24 78,68 40,90 2,68 2,24" fill="#121A2D"/>
+    <path d="M16 62V30L40 44L64 30V62L40 76L16 62Z" fill="#E7EAED"/>
+    <path d="M24 66V42L40 52L56 42V66L40 76L24 66Z" fill="#121A2D"/>
+    <path d="M20 20L40 8L52 15L32 27L20 20Z" fill="#121A2D"/>
+  </g>
+  <text x="120" y="60" fill="#121A2D" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="44" letter-spacing="2">MECHLAB</text>
+  <line x1="122" y1="80" x2="160" y2="80" stroke="#6E7684" stroke-width="2"/>
+  <text x="168" y="87" fill="#4A5361" font-family="Segoe UI, Arial, sans-serif" font-weight="500" font-size="28" letter-spacing="10">PRECISION</text>
+  <line x1="430" y1="80" x2="468" y2="80" stroke="#6E7684" stroke-width="2"/>
+</svg>
